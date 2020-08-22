@@ -8,7 +8,7 @@ Write a paper discussing Peer-to-Peer Systems and Grid Systems. Give examples an
 ## [Distributed Systems](Reflection Paper/Reflection Paper Rev. 1.pdf)
 Discussion on the use of virtualization as it applies to Infrastructure as a Service (IaaS), Platforms as a Service (PaaS) and Storage as a Service (SaaS) or (SSP). Written October 2019(Distributed Systems/Distributed Systems.docx)
 
-## [Professional Development Reflection Paper](Reflection Paper/Reflection Paper Rev. 1.docx)
+## [Professional Development Reflection Paper](ReflectionPaper/Reflection Paper Rev. 1.pdf)
 This paper was written for my professional development course that covered topics about myself. I was instructed to write about myself, my strongest skills, weakest skills, where I felt I needed improvements and how to overcome obsticles I might face while searching for employment. Written September 2016.
 
 ## [Civil Rights Movement response to book review and cases](CivilRightsMovement/Sugarcoatedcivilrightshistory.doc)
