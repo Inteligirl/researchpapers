@@ -11,6 +11,6 @@ Discussion on the use of virtualization as it applies to Infrastructure as a Ser
 ## [Professional Development Reflection Paper](ReflectionPaper/Reflection.pdf)
 This paper was written for my professional development course that covered topics about myself. I was instructed to write about myself, my strongest skills, weakest skills, where I felt I needed improvements and how to overcome obsticles I might face while searching for employment. Written September 2016.
 
-## [Civil Rights Movement response to book review and cases](CivilRightsMovement/Sugarcoatedcivilrightshistory.doc)
+## [Civil Rights Movement response to book review and cases](CivilRightsMovement/Sugarcoatedcivilrightshistory.pdf)
 A paper written based on the a review of the book titled "Blood done sign my name" by Timothy B. Tyson. This paper was written to explore the views of the civil rights movement from different perspectives of the past and relate them to events such as the abuse of Rodney King, Michael Brown and Freddie Gray. To discuss differences in the responses by differnt racial communities to those events and my opinions on all of that as a whole. 
 
