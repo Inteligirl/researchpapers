@@ -1,6 +1,9 @@
 # Research papers
 A collection of research papers and studies that I have completed through the years for college.
 
+## [Senior Capstone Project Application Development](SeniorCapstoneProject)
+Senior project where I was tasked to work as part of a team to create, develop and deploy a desktop application in C#. This project was handled in several phases along with each phase requiring a reflection post about our role within that phase. The project was a Florida State Parks Desktop applicaiton program that would allow the user to research parks, mark the parks for future visits and the like. Various forms were create throughout the project to monitor development progress and duties which are included here. I have only included the documents I completed myself as part of the group. The application is uploaded on my github account for reference purposes. My major code contribution to the project was mainly the framework layout and user interaction of the application. 
+
 ## [Peer-to-Peer](Peer-to-peer/peertopeer.pdf)
 
 Write a paper discussing Peer-to-Peer Systems and Grid Systems. Give examples and include images of the systems used for the paper. This paper was focused on the Berkeley Open Infrastructure for Network Computing (BOINC). Written November 2019.
