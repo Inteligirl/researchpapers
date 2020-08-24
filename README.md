@@ -9,8 +9,7 @@ Senior project where I was tasked to work as part of a team to create, develop a
 Write a paper discussing Peer-to-Peer Systems and Grid Systems. Give examples and include images of the systems used for the paper. This paper was focused on the Berkeley Open Infrastructure for Network Computing (BOINC). Written November 2019.
 
 ## [Distributed Systems](DistributedSystems/DistributedSystems.pdf)
-Discussion on the use of virtualization as it applies to Infrastructure as a Service (IaaS), Platforms as a Service (PaaS) and Storage as a Service (SaaS) or (SSP). Written October 2019(Distributed Systems/Distributed Systems.docx)
-
+Discussion on the use of virtualization as it applies to Infrastructure as a Service (IaaS), Platforms as a Service (PaaS) and Storage as a Service (SaaS) or (SSP). Written October 2019.
 ## [Professional Development Reflection Paper](ReflectionPaper/Reflection.pdf)
 This paper was written for my professional development course that covered topics about myself. I was instructed to write about myself, my strongest skills, weakest skills, where I felt I needed improvements and how to overcome obsticles I might face while searching for employment. Written September 2016.
 
