@@ -9,6 +9,9 @@ Senior project where I was tasked to work as part of a team to create, develop a
 [DISC Profiles of coworkers](PrinciplesofManagement/DISC-Profiles.pdf)
 A review of the personality types of my coworkers and how I felt they would perform if given a DISC assesment. Completed November 2018.
 
+## [Pattern Recognition for AI Power Point](PatternRecognitionAI/AlgorithmReviewAI.pdf)
+Presentation covering the algorithms used in pattern recognition for artificial intelligence. Information taken from book titled "9 Algorithms that change the future" by John MacCormick. Completed August 2020.
+
 ## [Peer-to-Peer](Peer-to-peer/peertopeer.pdf)
 
 Write a paper discussing Peer-to-Peer Systems and Grid Systems. Give examples and include images of the systems used for the paper. This paper was focused on the Berkeley Open Infrastructure for Network Computing (BOINC). Written November 2019.
